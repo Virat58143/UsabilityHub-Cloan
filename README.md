@@ -7,7 +7,7 @@ This is a fully responsive clone of the popular usability testing platform Usabi
 
 Improve HTML structure writing and semantic coding.
 
-Learn modern CSS layouts (Flexbox & Grid).
+Learn modern CSS layouts (Flexbox).
 
 Implement responsive design techniques for all screen sizes.
 
