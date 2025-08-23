@@ -35,7 +35,7 @@ Organized folder structure & clean code comments ✍️
 
 HTML5 → Semantic structure & SEO-friendly tags
 
-CSS3 → Styling, Flexbox, Grid, Responsiveness, Media Queries
+CSS3 → Styling, Flexbox, Responsiveness, Media Queries
 
 JavaScript (Vanilla JS) → DOM manipulation & UI interactivity
 
