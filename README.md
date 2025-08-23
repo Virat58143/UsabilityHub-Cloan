@@ -3,7 +3,7 @@ This is a fully responsive clone of the popular usability testing platform Usabi
 
 💡 This project is a part of my Web Development practice series, focusing on building real-world website clones to strengthen UI/UX, responsive design, and frontend coding skills.
 
-🚀 Project Objectives
+# 🚀 Project Objectives
 
 Improve HTML structure writing and semantic coding.
 
@@ -15,7 +15,7 @@ Enhance JavaScript DOM manipulation and interactivity.
 
 Practice real-world project workflow with version control (Git & GitHub).
 
-✨ Key Features
+# ✨ Key Features
 
 Pixel-perfect UI clone of UsabilityHub
 
@@ -31,7 +31,7 @@ Interactive elements with Vanilla JS
 
 Organized folder structure & clean code comments ✍️
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML5 → Semantic structure & SEO-friendly tags
 
